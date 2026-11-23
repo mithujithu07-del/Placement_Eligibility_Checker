@@ -1,0 +1,16 @@
+PLACEMENT ELIGIBILITY SUMMARY
+=============================
+
+Zentrix Software: 3 eligible students (matched)
+Bluepeak Systems: 15 eligible students (matched)
+Kovai Motors: 3 eligible students (matched)
+Medilink Health: 2 eligible students (matched)
+Aster Electronics: 1 eligible students (matched)
+Northstar Analytics: 3 eligible students (matched)
+GreenGrid Infrastructure: 3 eligible students (matched)
+Orbit Services: 21 eligible students (matched)
+
+STUDENTS ELIGIBLE FOR NO MATCHED JOB
+------------------------------------
+27CV015 - Mohan P
+27CV023 - Naveen A

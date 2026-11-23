@@ -1,0 +1,9 @@
+job_id,company,branches,min_cgpa,max_backlogs,batch,status,eligible_count
+J01,Zentrix Software,"[""CSE"", ""IT"", ""AIDS""]",7.5,0,2027,matched,3
+J02,Bluepeak Systems,"[""ALL""]",6.5,,2027,matched,15
+J03,Kovai Motors,"[""MECH"", ""EEE""]",7.0,0,2027,matched,3
+J04,Medilink Health,"[""CSE"", ""IT""]",7.5,0,2027,matched,2
+J05,Aster Electronics,"[""ECE"", ""EEE""]",7.0,,2026,matched,1
+J06,Northstar Analytics,"[""CSE"", ""IT"", ""AIDS""]",8.0,1,2027,matched,3
+J07,GreenGrid Infrastructure,"[""CIVIL"", ""MECH""]",6.0,0,2027,matched,3
+J08,Orbit Services,"[""ALL""]",6.5,,"[2026, 2027]",matched,21

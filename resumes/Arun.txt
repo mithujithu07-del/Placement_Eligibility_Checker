@@ -1,0 +1,21 @@
+RESUME
+
+Name: Arun Kumar
+Roll Number: 27CS001
+Email: arun@gmail.com
+Branch: CSE
+Batch: 2027
+
+Education:
+B.E Computer Science and Engineering
+CGPA: 8.4
+
+Skills:
+Python, Java, SQL, HTML, CSS
+
+Projects:
+Student Management System
+Online Placement Portal
+
+Experience:
+Fresher

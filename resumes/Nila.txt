@@ -1,0 +1,21 @@
+RESUME
+
+Name: Nila S
+Roll Number: 27AD003
+Email: nila@gmail.com
+Branch: AIDS
+Batch: 2027
+
+Education:
+B.Tech Artificial Intelligence and Data Science
+CGPA: 8.2
+
+Skills:
+Python, Machine Learning, SQL
+
+Projects:
+AI Chatbot
+Prediction System
+
+Experience:
+Fresher

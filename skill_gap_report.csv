@@ -1,0 +1,52 @@
+job_id,company,roll,name,matched_skills,missing_skills,skill_match_percentage
+J01,Zentrix Software,27CS001,Arun Kumar,python; sql; java,,100.0
+J01,Zentrix Software,27AD003,Nila S,python; sql,java,66.67
+J01,Zentrix Software,27CS020,Janani M,python; java,sql,66.67
+J02,Bluepeak Systems,27CS001,Arun Kumar,python,excel; communication,33.33
+J02,Bluepeak Systems,27IT002,Lakshmi P,python,excel; communication,33.33
+J02,Bluepeak Systems,27AD003,Nila S,python,excel; communication,33.33
+J02,Bluepeak Systems,27EC004,Vikram M,,python; excel; communication,0.0
+J02,Bluepeak Systems,27EE005,Meena K,,python; excel; communication,0.0
+J02,Bluepeak Systems,27ME006,Sanjay T,,python; excel; communication,0.0
+J02,Bluepeak Systems,27CV007,Divya R,,python; excel; communication,0.0
+J02,Bluepeak Systems,27CS008,Rahul V,python,excel; communication,33.33
+J02,Bluepeak Systems,27IT009,Priya N,,python; excel; communication,0.0
+J02,Bluepeak Systems,27AD013,Harish B,python,excel; communication,33.33
+J02,Bluepeak Systems,27EC017,Ajay K,,python; excel; communication,0.0
+J02,Bluepeak Systems,27EE018,Rithika S,python,excel; communication,33.33
+J02,Bluepeak Systems,27IT019,Bharath G,python,excel; communication,33.33
+J02,Bluepeak Systems,27CS020,Janani M,python,excel; communication,33.33
+J02,Bluepeak Systems,27AD022,Swetha P,python,excel; communication,33.33
+J03,Kovai Motors,27EE005,Meena K,,autocad; solidworks; manufacturing,0.0
+J03,Kovai Motors,27ME006,Sanjay T,autocad; solidworks; manufacturing,,100.0
+J03,Kovai Motors,27EE018,Rithika S,,autocad; solidworks; manufacturing,0.0
+J04,Medilink Health,27CS001,Arun Kumar,python; sql; java,,100.0
+J04,Medilink Health,27CS020,Janani M,python; java,sql,66.67
+J05,Aster Electronics,26EC011,Karthik S,c; matlab,embedded systems,66.67
+J06,Northstar Analytics,27CS001,Arun Kumar,python; sql,machine learning,66.67
+J06,Northstar Analytics,27AD003,Nila S,python; machine learning; sql,,100.0
+J06,Northstar Analytics,27CS020,Janani M,python; machine learning,sql,66.67
+J07,GreenGrid Infrastructure,27ME006,Sanjay T,autocad,revit; structural design,33.33
+J07,GreenGrid Infrastructure,27CV007,Divya R,autocad,revit; structural design,33.33
+J07,GreenGrid Infrastructure,27ME014,Keerthana J,autocad,revit; structural design,33.33
+J08,Orbit Services,27CS001,Arun Kumar,python; java,communication,66.67
+J08,Orbit Services,27IT002,Lakshmi P,python,java; communication,33.33
+J08,Orbit Services,26CS010,Gokul R,python; java,communication,66.67
+J08,Orbit Services,27AD003,Nila S,python,java; communication,33.33
+J08,Orbit Services,27EC004,Vikram M,,python; java; communication,0.0
+J08,Orbit Services,27EE005,Meena K,,python; java; communication,0.0
+J08,Orbit Services,27ME006,Sanjay T,,python; java; communication,0.0
+J08,Orbit Services,27CV007,Divya R,,python; java; communication,0.0
+J08,Orbit Services,27CS008,Rahul V,python,java; communication,33.33
+J08,Orbit Services,27IT009,Priya N,java,python; communication,33.33
+J08,Orbit Services,26EC011,Karthik S,,python; java; communication,0.0
+J08,Orbit Services,26EE012,Ananya D,python,java; communication,33.33
+J08,Orbit Services,27AD013,Harish B,python,java; communication,33.33
+J08,Orbit Services,26CS016,Sneha L,python,java; communication,33.33
+J08,Orbit Services,27EC017,Ajay K,,python; java; communication,0.0
+J08,Orbit Services,27EE018,Rithika S,python,java; communication,33.33
+J08,Orbit Services,27IT019,Bharath G,python,java; communication,33.33
+J08,Orbit Services,27CS020,Janani M,python; java,communication,66.67
+J08,Orbit Services,26ME021,Dinesh R,,python; java; communication,0.0
+J08,Orbit Services,27AD022,Swetha P,python,java; communication,33.33
+J08,Orbit Services,26IT024,Pavithra K,python; java,communication,66.67

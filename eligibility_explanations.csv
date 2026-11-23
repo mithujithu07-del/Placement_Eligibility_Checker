@@ -1,0 +1,193 @@
+job_id,company,roll,name,status,reason
+J01,Zentrix Software,27CS001,Arun Kumar,Eligible,All stated eligibility criteria satisfied
+J01,Zentrix Software,27IT002,Lakshmi P,Not Eligible,CGPA is below requirement
+J01,Zentrix Software,26CS010,Gokul R,Not Eligible,Batch does not match
+J01,Zentrix Software,27AD003,Nila S,Eligible,All stated eligibility criteria satisfied
+J01,Zentrix Software,27EC004,Vikram M,Not Eligible,Branch does not match
+J01,Zentrix Software,27EE005,Meena K,Not Eligible,Branch does not match; CGPA is below requirement
+J01,Zentrix Software,27ME006,Sanjay T,Not Eligible,Branch does not match; CGPA is below requirement
+J01,Zentrix Software,27CV007,Divya R,Not Eligible,Branch does not match; CGPA is below requirement
+J01,Zentrix Software,27CS008,Rahul V,Not Eligible,CGPA is below requirement; Backlogs exceed permitted limit
+J01,Zentrix Software,27IT009,Priya N,Not Eligible,Backlogs exceed permitted limit
+J01,Zentrix Software,26EC011,Karthik S,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J01,Zentrix Software,26EE012,Ananya D,Not Eligible,Branch does not match; CGPA is below requirement; Backlogs exceed permitted limit; Batch does not match
+J01,Zentrix Software,27AD013,Harish B,Not Eligible,Backlogs exceed permitted limit
+J01,Zentrix Software,27ME014,Keerthana J,Not Eligible,Branch does not match; CGPA is below requirement
+J01,Zentrix Software,27CV015,Mohan P,Not Eligible,Branch does not match; CGPA is below requirement
+J01,Zentrix Software,26CS016,Sneha L,Not Eligible,CGPA is below requirement; Batch does not match
+J01,Zentrix Software,27EC017,Ajay K,Not Eligible,Branch does not match
+J01,Zentrix Software,27EE018,Rithika S,Not Eligible,Branch does not match
+J01,Zentrix Software,27IT019,Bharath G,Not Eligible,Backlogs exceed permitted limit
+J01,Zentrix Software,27CS020,Janani M,Eligible,All stated eligibility criteria satisfied
+J01,Zentrix Software,26ME021,Dinesh R,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J01,Zentrix Software,27AD022,Swetha P,Not Eligible,CGPA is below requirement
+J01,Zentrix Software,27CV023,Naveen A,Not Eligible,Branch does not match; CGPA is below requirement; Backlogs exceed permitted limit
+J01,Zentrix Software,26IT024,Pavithra K,Not Eligible,Batch does not match
+J02,Bluepeak Systems,27CS001,Arun Kumar,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27IT002,Lakshmi P,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,26CS010,Gokul R,Not Eligible,Batch does not match
+J02,Bluepeak Systems,27AD003,Nila S,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27EC004,Vikram M,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27EE005,Meena K,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27ME006,Sanjay T,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27CV007,Divya R,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27CS008,Rahul V,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27IT009,Priya N,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,26EC011,Karthik S,Not Eligible,Batch does not match
+J02,Bluepeak Systems,26EE012,Ananya D,Not Eligible,Batch does not match
+J02,Bluepeak Systems,27AD013,Harish B,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27ME014,Keerthana J,Not Eligible,CGPA is below requirement
+J02,Bluepeak Systems,27CV015,Mohan P,Not Eligible,CGPA is below requirement
+J02,Bluepeak Systems,26CS016,Sneha L,Not Eligible,Batch does not match
+J02,Bluepeak Systems,27EC017,Ajay K,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27EE018,Rithika S,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27IT019,Bharath G,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27CS020,Janani M,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,26ME021,Dinesh R,Not Eligible,Batch does not match
+J02,Bluepeak Systems,27AD022,Swetha P,Eligible,All stated eligibility criteria satisfied
+J02,Bluepeak Systems,27CV023,Naveen A,Not Eligible,CGPA is below requirement
+J02,Bluepeak Systems,26IT024,Pavithra K,Not Eligible,Batch does not match
+J03,Kovai Motors,27CS001,Arun Kumar,Not Eligible,Branch does not match
+J03,Kovai Motors,27IT002,Lakshmi P,Not Eligible,Branch does not match
+J03,Kovai Motors,26CS010,Gokul R,Not Eligible,Branch does not match; Batch does not match
+J03,Kovai Motors,27AD003,Nila S,Not Eligible,Branch does not match
+J03,Kovai Motors,27EC004,Vikram M,Not Eligible,Branch does not match
+J03,Kovai Motors,27EE005,Meena K,Eligible,All stated eligibility criteria satisfied
+J03,Kovai Motors,27ME006,Sanjay T,Eligible,All stated eligibility criteria satisfied
+J03,Kovai Motors,27CV007,Divya R,Not Eligible,Branch does not match; CGPA is below requirement
+J03,Kovai Motors,27CS008,Rahul V,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J03,Kovai Motors,27IT009,Priya N,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J03,Kovai Motors,26EC011,Karthik S,Not Eligible,Branch does not match; Batch does not match
+J03,Kovai Motors,26EE012,Ananya D,Not Eligible,CGPA is below requirement; Backlogs exceed permitted limit; Batch does not match
+J03,Kovai Motors,27AD013,Harish B,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J03,Kovai Motors,27ME014,Keerthana J,Not Eligible,CGPA is below requirement
+J03,Kovai Motors,27CV015,Mohan P,Not Eligible,Branch does not match; CGPA is below requirement
+J03,Kovai Motors,26CS016,Sneha L,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J03,Kovai Motors,27EC017,Ajay K,Not Eligible,Branch does not match
+J03,Kovai Motors,27EE018,Rithika S,Eligible,All stated eligibility criteria satisfied
+J03,Kovai Motors,27IT019,Bharath G,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J03,Kovai Motors,27CS020,Janani M,Not Eligible,Branch does not match
+J03,Kovai Motors,26ME021,Dinesh R,Not Eligible,Batch does not match
+J03,Kovai Motors,27AD022,Swetha P,Not Eligible,Branch does not match; CGPA is below requirement
+J03,Kovai Motors,27CV023,Naveen A,Not Eligible,Branch does not match; CGPA is below requirement; Backlogs exceed permitted limit
+J03,Kovai Motors,26IT024,Pavithra K,Not Eligible,Branch does not match; Batch does not match
+J04,Medilink Health,27CS001,Arun Kumar,Eligible,All stated eligibility criteria satisfied
+J04,Medilink Health,27IT002,Lakshmi P,Not Eligible,CGPA is below requirement
+J04,Medilink Health,26CS010,Gokul R,Not Eligible,Batch does not match
+J04,Medilink Health,27AD003,Nila S,Not Eligible,Branch does not match
+J04,Medilink Health,27EC004,Vikram M,Not Eligible,Branch does not match
+J04,Medilink Health,27EE005,Meena K,Not Eligible,Branch does not match; CGPA is below requirement
+J04,Medilink Health,27ME006,Sanjay T,Not Eligible,Branch does not match; CGPA is below requirement
+J04,Medilink Health,27CV007,Divya R,Not Eligible,Branch does not match; CGPA is below requirement
+J04,Medilink Health,27CS008,Rahul V,Not Eligible,CGPA is below requirement; Backlogs exceed permitted limit
+J04,Medilink Health,27IT009,Priya N,Not Eligible,Backlogs exceed permitted limit
+J04,Medilink Health,26EC011,Karthik S,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J04,Medilink Health,26EE012,Ananya D,Not Eligible,Branch does not match; CGPA is below requirement; Backlogs exceed permitted limit; Batch does not match
+J04,Medilink Health,27AD013,Harish B,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J04,Medilink Health,27ME014,Keerthana J,Not Eligible,Branch does not match; CGPA is below requirement
+J04,Medilink Health,27CV015,Mohan P,Not Eligible,Branch does not match; CGPA is below requirement
+J04,Medilink Health,26CS016,Sneha L,Not Eligible,CGPA is below requirement; Batch does not match
+J04,Medilink Health,27EC017,Ajay K,Not Eligible,Branch does not match
+J04,Medilink Health,27EE018,Rithika S,Not Eligible,Branch does not match
+J04,Medilink Health,27IT019,Bharath G,Not Eligible,Backlogs exceed permitted limit
+J04,Medilink Health,27CS020,Janani M,Eligible,All stated eligibility criteria satisfied
+J04,Medilink Health,26ME021,Dinesh R,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J04,Medilink Health,27AD022,Swetha P,Not Eligible,Branch does not match; CGPA is below requirement
+J04,Medilink Health,27CV023,Naveen A,Not Eligible,Branch does not match; CGPA is below requirement; Backlogs exceed permitted limit
+J04,Medilink Health,26IT024,Pavithra K,Not Eligible,Batch does not match
+J05,Aster Electronics,27CS001,Arun Kumar,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,27IT002,Lakshmi P,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,26CS010,Gokul R,Not Eligible,Branch does not match
+J05,Aster Electronics,27AD003,Nila S,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,27EC004,Vikram M,Not Eligible,Batch does not match
+J05,Aster Electronics,27EE005,Meena K,Not Eligible,Batch does not match
+J05,Aster Electronics,27ME006,Sanjay T,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,27CV007,Divya R,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J05,Aster Electronics,27CS008,Rahul V,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,27IT009,Priya N,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,26EC011,Karthik S,Eligible,All stated eligibility criteria satisfied
+J05,Aster Electronics,26EE012,Ananya D,Not Eligible,CGPA is below requirement
+J05,Aster Electronics,27AD013,Harish B,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,27ME014,Keerthana J,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J05,Aster Electronics,27CV015,Mohan P,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J05,Aster Electronics,26CS016,Sneha L,Not Eligible,Branch does not match; CGPA is below requirement
+J05,Aster Electronics,27EC017,Ajay K,Not Eligible,Batch does not match
+J05,Aster Electronics,27EE018,Rithika S,Not Eligible,Batch does not match
+J05,Aster Electronics,27IT019,Bharath G,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,27CS020,Janani M,Not Eligible,Branch does not match; Batch does not match
+J05,Aster Electronics,26ME021,Dinesh R,Not Eligible,Branch does not match
+J05,Aster Electronics,27AD022,Swetha P,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J05,Aster Electronics,27CV023,Naveen A,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J05,Aster Electronics,26IT024,Pavithra K,Not Eligible,Branch does not match
+J06,Northstar Analytics,27CS001,Arun Kumar,Eligible,All stated eligibility criteria satisfied
+J06,Northstar Analytics,27IT002,Lakshmi P,Not Eligible,CGPA is below requirement
+J06,Northstar Analytics,26CS010,Gokul R,Not Eligible,Batch does not match
+J06,Northstar Analytics,27AD003,Nila S,Eligible,All stated eligibility criteria satisfied
+J06,Northstar Analytics,27EC004,Vikram M,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,27EE005,Meena K,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,27ME006,Sanjay T,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,27CV007,Divya R,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,27CS008,Rahul V,Not Eligible,CGPA is below requirement
+J06,Northstar Analytics,27IT009,Priya N,Not Eligible,Backlogs exceed permitted limit
+J06,Northstar Analytics,26EC011,Karthik S,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J06,Northstar Analytics,26EE012,Ananya D,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J06,Northstar Analytics,27AD013,Harish B,Not Eligible,CGPA is below requirement
+J06,Northstar Analytics,27ME014,Keerthana J,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,27CV015,Mohan P,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,26CS016,Sneha L,Not Eligible,CGPA is below requirement; Batch does not match
+J06,Northstar Analytics,27EC017,Ajay K,Not Eligible,Branch does not match
+J06,Northstar Analytics,27EE018,Rithika S,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,27IT019,Bharath G,Not Eligible,CGPA is below requirement
+J06,Northstar Analytics,27CS020,Janani M,Eligible,All stated eligibility criteria satisfied
+J06,Northstar Analytics,26ME021,Dinesh R,Not Eligible,Branch does not match; CGPA is below requirement; Batch does not match
+J06,Northstar Analytics,27AD022,Swetha P,Not Eligible,CGPA is below requirement
+J06,Northstar Analytics,27CV023,Naveen A,Not Eligible,Branch does not match; CGPA is below requirement
+J06,Northstar Analytics,26IT024,Pavithra K,Not Eligible,Batch does not match
+J07,GreenGrid Infrastructure,27CS001,Arun Kumar,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27IT002,Lakshmi P,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,26CS010,Gokul R,Not Eligible,Branch does not match; Batch does not match
+J07,GreenGrid Infrastructure,27AD003,Nila S,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27EC004,Vikram M,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27EE005,Meena K,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27ME006,Sanjay T,Eligible,All stated eligibility criteria satisfied
+J07,GreenGrid Infrastructure,27CV007,Divya R,Eligible,All stated eligibility criteria satisfied
+J07,GreenGrid Infrastructure,27CS008,Rahul V,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J07,GreenGrid Infrastructure,27IT009,Priya N,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J07,GreenGrid Infrastructure,26EC011,Karthik S,Not Eligible,Branch does not match; Batch does not match
+J07,GreenGrid Infrastructure,26EE012,Ananya D,Not Eligible,Branch does not match; Backlogs exceed permitted limit; Batch does not match
+J07,GreenGrid Infrastructure,27AD013,Harish B,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J07,GreenGrid Infrastructure,27ME014,Keerthana J,Eligible,All stated eligibility criteria satisfied
+J07,GreenGrid Infrastructure,27CV015,Mohan P,Not Eligible,CGPA is below requirement
+J07,GreenGrid Infrastructure,26CS016,Sneha L,Not Eligible,Branch does not match; Batch does not match
+J07,GreenGrid Infrastructure,27EC017,Ajay K,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27EE018,Rithika S,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27IT019,Bharath G,Not Eligible,Branch does not match; Backlogs exceed permitted limit
+J07,GreenGrid Infrastructure,27CS020,Janani M,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,26ME021,Dinesh R,Not Eligible,Batch does not match
+J07,GreenGrid Infrastructure,27AD022,Swetha P,Not Eligible,Branch does not match
+J07,GreenGrid Infrastructure,27CV023,Naveen A,Not Eligible,Backlogs exceed permitted limit
+J07,GreenGrid Infrastructure,26IT024,Pavithra K,Not Eligible,Branch does not match; Batch does not match
+J08,Orbit Services,27CS001,Arun Kumar,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27IT002,Lakshmi P,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,26CS010,Gokul R,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27AD003,Nila S,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27EC004,Vikram M,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27EE005,Meena K,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27ME006,Sanjay T,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27CV007,Divya R,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27CS008,Rahul V,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27IT009,Priya N,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,26EC011,Karthik S,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,26EE012,Ananya D,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27AD013,Harish B,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27ME014,Keerthana J,Not Eligible,CGPA is below requirement
+J08,Orbit Services,27CV015,Mohan P,Not Eligible,CGPA is below requirement
+J08,Orbit Services,26CS016,Sneha L,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27EC017,Ajay K,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27EE018,Rithika S,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27IT019,Bharath G,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27CS020,Janani M,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,26ME021,Dinesh R,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27AD022,Swetha P,Eligible,All stated eligibility criteria satisfied
+J08,Orbit Services,27CV023,Naveen A,Not Eligible,CGPA is below requirement
+J08,Orbit Services,26IT024,Pavithra K,Eligible,All stated eligibility criteria satisfied

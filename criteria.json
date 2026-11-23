@@ -1,0 +1,85 @@
+{
+    "J01:1223e7227bb17f09ef0e616570a273a2abbe148c5effe191c7dd6248b982568b": {
+        "branches": [
+            "CSE",
+            "IT",
+            "AI&DS"
+        ],
+        "min_cgpa": 7.5,
+        "max_backlogs": 0,
+        "batch": 2027,
+        "summary": "2027 batch CSE, IT, AI&DS students with 7.5+ CGPA, no backlogs."
+    },
+    "J02:1a6f58817d0ab57414c2703a27a0e2cc385ec13363b0be848369cb9931f6c91c": {
+        "branches": [
+            "ALL"
+        ],
+        "min_cgpa": 6.5,
+        "max_backlogs": null,
+        "batch": 2027,
+        "summary": "2027 batch students from any branch with minimum 6.5 CGPA."
+    },
+    "J03:803405898a427a76f61e64474ace328299b8e47d5be4c6f0d2c73c2eb95c1d64": {
+        "branches": [
+            "Mechanical",
+            "EEE"
+        ],
+        "min_cgpa": 7.0,
+        "max_backlogs": 0,
+        "batch": 2027,
+        "summary": "2027 batch Mechanical and EEE with 7.0+ CGPA and no backlogs."
+    },
+    "J04:ea68553589e1c2eef81403c42b7fa5f14563c016ebcd26ff007aafcc8dc37cae": {
+        "branches": [
+            "CSE",
+            "IT"
+        ],
+        "min_cgpa": 7.5,
+        "max_backlogs": 0,
+        "batch": 2027,
+        "summary": "2027 CSE and IT students with minimum 7.5 CGPA, no backlogs."
+    },
+    "J05:151da78c35f0e726f13d9458f12eadd1df4e924f5fa0650729181a655a033a81": {
+        "branches": [
+            "ECE",
+            "EEE"
+        ],
+        "min_cgpa": 7.0,
+        "max_backlogs": null,
+        "batch": 2026,
+        "summary": "2026 batch ECE and EEE students with minimum 7.0 CGPA eligible."
+    },
+    "J06:dfe682b839af05359562c6486cf9b8e32b9772ce5e38b2ca86e119ff76b877d9": {
+        "branches": [
+            "CSE",
+            "IT",
+            "AIDS"
+        ],
+        "min_cgpa": 8.0,
+        "max_backlogs": 1,
+        "batch": 2027,
+        "summary": "2027 batch CSE, IT, AIDS with 8.0+ CGPA and maximum 1 backlog."
+    },
+    "J07:cca7cd8b78b24cd4b171f48529fcca7fce0e1eae512047b0bbecc0100e8db748": {
+        "branches": [
+            "Civil",
+            "Mechanical"
+        ],
+        "min_cgpa": 6.0,
+        "max_backlogs": 0,
+        "batch": 2027,
+        "summary": "Civil and Mechanical 2027 batch, min 6.0 CGPA, no backlogs."
+    },
+    "J08:fed418ebec04c291a6770d3660068990f49c09f4e482d6b405a225895dded90b": {
+        "branches": [
+            "ALL"
+        ],
+        "min_cgpa": 6.5,
+        "max_backlogs": null,
+        "batch": [
+            2026,
+            2027
+        ],
+        "summary": "Any branch, batches 2026 or 2027, minimum CGPA 6.5"
+    }
+}
